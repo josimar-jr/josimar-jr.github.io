@@ -1,2 +1,4 @@
 # josimar-jr.github.io
-portfólio
+Projeto para construção de github pages para portfolio.
+
+[https://josimar-jr.github.io]
